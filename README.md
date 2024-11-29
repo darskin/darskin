@@ -82,11 +82,12 @@
 
 ###
 
-<br clear="both">
 
-## Snake eating my contribution graph
 
-[snake gif](https://github.com/darskin/darskin/blob/output/github-contribution-grid-snake.gif)
+### Snake eating my contribution graph
+
+
+![snake gif](https://github.com/darskin/darskin/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
