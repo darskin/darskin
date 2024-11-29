@@ -88,14 +88,10 @@
 
 ###
 
-<img align="left" height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3psczB4azZiZjVncWRtZW55a3NiNmNscTlzM2puNDlkZzNpMHN6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xUA7bdpLxQhsSQdyog/giphy.gif"  />
+<img align="left" height="236" src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"  />
 
 ###
 
-<img align="left" height="206" src="https://media1.tenor.com/m/YUzRkMOL-3EAAAAC/programming-computer-frog.gif"  />
-
-###
-
-<img align="left" height="200" src="https://media1.tenor.com/m/GiUbb4qg_vwAAAAC/csharp-cat-programmer.gif"  />
+<img align="right" height="234" src="https://media1.tenor.com/m/GiUbb4qg_vwAAAAC/csharp-cat-programmer.gif"  />
 
 ###
