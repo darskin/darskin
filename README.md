@@ -84,7 +84,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/darskin/darskin/output/snake.svg" alt="Snake animation" />
+## Snake eating my contribution graph
+![snake gif](https://github.com/darskin/darskin/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
